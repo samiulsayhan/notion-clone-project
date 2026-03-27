@@ -1,0 +1,52 @@
+[
+  {
+    "projectName": "E-Commerce Website",
+    "dateAdded": "2026-01-05",
+    "description": "Built scalable online store with cart payment and user authentication"
+  },
+  {
+    "projectName": "Chat Application",
+    "dateAdded": "2026-01-12",
+    "description": "Real time messaging app with authentication notifications and modern interface"
+  },
+  {
+    "projectName": "Portfolio Website",
+    "dateAdded": "2026-01-20",
+    "description": "Personal portfolio showcasing projects skills experience and contact information clearly"
+  },
+  {
+    "projectName": "Task Manager App",
+    "dateAdded": "2026-02-02",
+    "description": "Manage daily tasks with deadlines reminders progress tracking and clean interface"
+  },
+  {
+    "projectName": "Weather App",
+    "dateAdded": "2026-02-08",
+    "description": "Displays real time weather forecast using API with location detection"
+  },
+  {
+    "projectName": "Blog Platform",
+    "dateAdded": "2026-02-15",
+    "description": "Create read update delete blog posts with comments and user system"
+  },
+  {
+    "projectName": "Online Learning Platform",
+    "dateAdded": "2026-02-22",
+    "description": "Platform for courses video lessons quizzes and student progress tracking"
+  },
+  {
+    "projectName": "Food Delivery App",
+    "dateAdded": "2026-03-01",
+    "description": "Order food online with live tracking payment system and restaurant listings"
+  },
+  {
+    "projectName": "Expense Tracker",
+    "dateAdded": "2026-03-08",
+    "description": "Track income expenses visualize data with charts and financial insights"
+  },
+  {
+    "projectName": "Social Media Dashboard",
+    "dateAdded": "2026-03-15",
+    "description": "Analyze social media performance metrics engagement trends and audience growth"
+  }
+]
