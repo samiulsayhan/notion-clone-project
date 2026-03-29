@@ -84,7 +84,7 @@ export default function Navbar() {
                 {/* private files */}
 
                 <div className=" space-y-2">
-                    <h1 className="text-[12px] text-[#646464] font-medium ">Recent</h1>
+                    <h1 className="text-[12px] text-[#646464] font-medium ">Private files</h1>
                     <ul className="flex flex-col gap-2 text-[14px] text-[#646464] font-medium">
                         {projects.map((project, index) => (
 
