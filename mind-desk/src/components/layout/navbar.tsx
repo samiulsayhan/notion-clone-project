@@ -81,6 +81,22 @@ export default function Navbar() {
                     </ul>
                 </div>
 
+                {/* private files */}
+
+                <div className=" space-y-2">
+                    <h1 className="text-[12px] text-[#646464] font-medium ">Recent</h1>
+                    <ul className="flex flex-col gap-2 text-[14px] text-[#646464] font-medium">
+                        {projects.map((project, index) => (
+
+                                <Link key={index} href="/dashboard/workspace/home" className="flex flex-row gap-2.5 items-center  ">
+                                <img src="/file.svg" alt="" className="w-4 h-4" />
+                                <p>{shortenText(project.projectName , 18)}</p>
+                            </Link>
+
+                        ))}
+                    </ul>
+                </div>
+
                 {/* settings section */}
                 <div className=" ">
                     <ul className="flex flex-col gap-2 text-[14px] text-[#646464] font-medium">
